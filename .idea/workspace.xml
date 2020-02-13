@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c6fcf10-c953-4401-8ebb-fde222f87a60" name="Default Changelist" comment="env variable">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/custom-environment-variables.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/custom-environment-variables.json" afterDir="false" />
     </list>
     <list id="4c3784d1-af9b-4354-8d64-8f822e291f82" name="Add support for connStr via an env variable.\" comment="" />
@@ -83,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/custom-environment-variables.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="48">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -243,7 +242,7 @@
       <workItem from="1581452680970" duration="3030000" />
       <workItem from="1581491547101" duration="1370000" />
       <workItem from="1581518070476" duration="618000" />
-      <workItem from="1581621743656" duration="3460000" />
+      <workItem from="1581621743656" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="updated package.json">
       <created>1581492100188</created>
@@ -256,7 +255,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35307000" />
+    <option name="totallyTimeSpent" value="35362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -447,8 +446,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/custom-environment-variables.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="48">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
